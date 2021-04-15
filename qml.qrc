@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EmptyPage.qml</file>
+        <file>FilledPage.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ListDelegate.qml</file>
+        <file>DefaultHeader.qml</file>
+        <file>SettingsHeader.qml</file>
+        <file>SettingsPopup.qml</file>
+        <file>NewCarPopup.qml</file>
+        <file>carlist.db</file>
+    </qresource>
+</RCC>
